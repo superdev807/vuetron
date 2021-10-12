@@ -20,7 +20,7 @@
   "author": "Samantha Salley",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.7.9",
+    "electron": "^11.5.0",
     "electron-devtools-installer": "^2.2.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
